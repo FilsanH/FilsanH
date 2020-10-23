@@ -8,10 +8,13 @@ This summer I decided to explore the world of programming through webdevelopment
 ## Start
 
 I started this journey by working through the Udemy Courses below:
+[WebdevBootcamp](https://github.com/FilsanH/UdemyWebdevbootcamp.git)
+[Javascript](https://github.com/FilsanH/JavascriptCourse-.git)
 
 ## Next 
 
 I was particularly interested in back-end webdevelopment so chose to explore this further.
+[Node.js](https://github.com/FilsanH/Node.js---The-Complete-Guide-.git)
 
 ## Next 
 
@@ -19,7 +22,6 @@ I decided to take a break from the courses and consolidate by learning completin
 
 Javascript:
 https://github.com/FilsanH/Javascript_daily.git
-
 
 Node.js: 
 https://github.com/FilsanH/StroyBookPublic.git
