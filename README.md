@@ -1,12 +1,8 @@
 ### Welcome to Filsan's git 👋
 
-<!--
-**FilsanH/FilsanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: filsanhassan99@gmail.com
--->
+
 This summer I decided to explore the world of programming through webdevelopment. Below is my journey so far : 
 
 ## Start
