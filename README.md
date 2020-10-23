@@ -8,7 +8,7 @@ This summer I decided to explore the world of programming through webdevelopment
 ## Start
 
 I started this journey by working through the Udemy Courses below:
-[WebdevBootcamp](https://github.com/FilsanH/UdemyWebdevbootcamp.git)
+[WebdevBootcamp](https://github.com/FilsanH/UdemyWebdevbootcamp.git),
 [Javascript](https://github.com/FilsanH/JavascriptCourse-.git)
 
 ## Next 
@@ -24,15 +24,13 @@ Javascript:
 https://github.com/FilsanH/Javascript_daily.git
 
 Node.js: 
-https://github.com/FilsanH/StroyBookPublic.git
+https://github.com/FilsanH/StroyBookPublic.git, 
 https://github.com/FilsanH/Node_Practice.git
 
 
 ## Highlight 
 
-I developed a chrome extension to help make your facebook browsing experience a little more productive. I hope to soon publish it! 
-
-[Additive Agumenter](https://github.com/FilsanH/AAChromeExtension.git)
+I developed a chrome extension  ['Additive Agumenter'](https://github.com/FilsanH/AAChromeExtension.git) to help make your facebook browsing experience a little more productive. I hope to soon publish it! 
 
 ## Future Plans
 
