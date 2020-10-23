@@ -7,7 +7,7 @@ This summer I decided to explore the world of programming through webdevelopment
 
 ## Start
 
-I started this journey by working through the Udemy Courses below:
+I started this journey by working through the following Udemy Courses:
 [WebdevBootcamp](https://github.com/FilsanH/UdemyWebdevbootcamp.git),
 [Javascript](https://github.com/FilsanH/JavascriptCourse-.git)
 
