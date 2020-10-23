@@ -17,10 +17,20 @@ I was particularly interested in back-end webdevelopment so chose to explore thi
 
 I decided to take a break from the courses and consolidate by learning completing the following projects.
 
+Javascript:
+https://github.com/FilsanH/Javascript_daily.git
+
+
+Node.js: 
+https://github.com/FilsanH/StroyBookPublic.git
+https://github.com/FilsanH/Node_Practice.git
+
 
 ## Highlight 
 
-I developed this chrome extension to which I hope to soon publish! 
+I developed a chrome extension to help make your facebook browsing experience a little more productive. I hope to soon publish it! 
+
+[Additive Agumenter](https://github.com/FilsanH/AAChromeExtension.git)
 
 ## Future Plans
 
