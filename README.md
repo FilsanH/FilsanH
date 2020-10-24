@@ -18,7 +18,7 @@ I was particularly interested in back-end webdevelopment so chose to explore thi
 
 ## Next 
 
-I decided to take a break from the courses and consolidate by learning completing the following projects.
+I decided to take a break from the courses and consolidate my learning completing the following projects.
 
 Javascript:
 https://github.com/FilsanH/Javascript_daily.git
